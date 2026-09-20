@@ -83,12 +83,13 @@ SQL capstone project analyzing the Olist e-commerce dataset to deliver actionabl
 
 | File | Description |
 |--------|--------|
-| DASP-B04-JanellaBuban.docx | Complete SQL capstone project documentation |
-| q1_top_customers.sql | Top 10 customers by total amount spent |
-| q2_monthly_revenue_trend.sql | Monthly revenue trend analysis |
-| q3_mom_revenue_change.sql | Month-over-month revenue analysis |
-| q4_category_revenue.sql | Revenue by product category |
-| q5_top_products_by_category.sql | Top 3 products within each category |
-| q6_customer_segmentation.sql | Customer spending tier analysis |
-| q7_repeat_vs_onetime_buyers.sql | Customer retention analysis |
-| q8_top_category_revenue_share.sql | Revenue contribution of the top category |
+| Q1_Top10_customers.sql | Identifies the top 10 customers by total amount spent |
+| Q2_Monthly_revenue_trend.sql | Analyzes monthly revenue trends across the dataset |
+| Q3_MoM_change_revenue.sql | Calculates month-over-month revenue changes |
+| Q4_Top_product_category_revenue.sql | Identifies the highest revenue-generating product categories |
+| Q5_Top3_products_by_revenue.sql | Ranks the top 3 products within each category by revenue |
+| Q6_Customer_spend_tiers.sql | Segments customers into Low, Medium, and High spending tiers |
+| Q7_RepeatBuyers_VS_OneTimeBuyers.sql | Compares repeat buyers and one-time buyers |
+| Q8_Top_category_revenue_share.sql | Calculates the revenue contribution of the top product category |
+| DASP-B04-JanellaBuban.docx | Complete capstone report including SQL queries, findings, and recommendations |
+`
